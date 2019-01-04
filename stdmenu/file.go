@@ -3,9 +3,9 @@ package stdmenu
 import (
 	"runtime"
 
-	"github.com/richardwilkes/toolbox/i18n"
-	"github.com/richardwilkes/webapp"
-	"github.com/richardwilkes/webapp/keys"
+	"github.com/jholder85638/toolbox/i18n"
+	"github.com/jholder85638/webapp"
+	"github.com/jholder85638/webapp/keys"
 )
 
 // NewFileMenu creates a standard 'File' menu.

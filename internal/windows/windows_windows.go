@@ -3,9 +3,9 @@ package windows
 import (
 	"unsafe"
 
-	"github.com/richardwilkes/toolbox/log/jot"
-	"github.com/richardwilkes/toolbox/xmath/geom"
-	"github.com/richardwilkes/webapp"
+	"github.com/jholder85638/toolbox/log/jot"
+	"github.com/jholder85638/toolbox/xmath/geom"
+	"github.com/jholder85638/webapp"
 )
 
 const windowClassName = "wndClass"

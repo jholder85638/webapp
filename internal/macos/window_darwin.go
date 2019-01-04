@@ -6,8 +6,8 @@ import (
 	"C"
 	"unsafe"
 
-	"github.com/richardwilkes/toolbox/xmath/geom"
-	"github.com/richardwilkes/webapp"
+	"github.com/jholder85638/toolbox/xmath/geom"
+	"github.com/jholder85638/webapp"
 )
 
 func (d *driver) BringAllWindowsToFront() {

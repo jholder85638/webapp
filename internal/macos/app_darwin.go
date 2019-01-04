@@ -11,10 +11,10 @@ import (
 	// #import "windows.h"
 	"C"
 
-	"github.com/richardwilkes/cef/cef"
-	"github.com/richardwilkes/toolbox/atexit"
-	"github.com/richardwilkes/toolbox/log/jot"
-	"github.com/richardwilkes/webapp"
+	"github.com/jholder85638/cef/cef"
+	"github.com/jholder85638/toolbox/atexit"
+	"github.com/jholder85638/toolbox/log/jot"
+	"github.com/jholder85638/webapp"
 )
 
 var (

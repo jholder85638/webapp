@@ -5,9 +5,9 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/richardwilkes/toolbox/log/jot"
-	"github.com/richardwilkes/webapp"
-	"github.com/richardwilkes/webapp/keys"
+	"github.com/jholder85638/toolbox/log/jot"
+	"github.com/jholder85638/webapp"
+	"github.com/jholder85638/webapp/keys"
 )
 
 type menuBar struct {

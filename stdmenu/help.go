@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"runtime"
 
-	"github.com/richardwilkes/toolbox/cmdline"
-	"github.com/richardwilkes/toolbox/i18n"
-	"github.com/richardwilkes/webapp"
+	"github.com/jholder85638/toolbox/cmdline"
+	"github.com/jholder85638/toolbox/i18n"
+	"github.com/jholder85638/webapp"
 )
 
 // NewHelpMenu creates a standard 'Help' menu.

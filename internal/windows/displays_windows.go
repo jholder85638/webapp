@@ -3,8 +3,8 @@ package windows
 import (
 	"unsafe"
 
-	"github.com/richardwilkes/toolbox/log/jot"
-	"github.com/richardwilkes/webapp"
+	"github.com/jholder85638/toolbox/log/jot"
+	"github.com/jholder85638/webapp"
 )
 
 func (d *driver) Displays() []*webapp.Display {

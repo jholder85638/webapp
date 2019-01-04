@@ -1,6 +1,6 @@
-module github.com/richardwilkes/webapp
+module github.com/jholder85638/webapp
 
 require (
-	github.com/richardwilkes/cef v0.0.0-20181213004358-81a96a5e1357
-	github.com/richardwilkes/toolbox v1.1.3
+	github.com/jholder85638/cef v0.0.0-20181213004358-81a96a5e1357
+	github.com/jholder85638/toolbox v1.1.3
 )

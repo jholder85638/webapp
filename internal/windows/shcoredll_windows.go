@@ -4,7 +4,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/richardwilkes/toolbox/errs"
+	"github.com/jholder85638/toolbox/errs"
 )
 
 var (

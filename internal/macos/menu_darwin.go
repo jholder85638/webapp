@@ -6,8 +6,8 @@ import (
 	"C"
 	"unsafe"
 
-	"github.com/richardwilkes/webapp"
-	"github.com/richardwilkes/webapp/keys"
+	"github.com/jholder85638/webapp"
+	"github.com/jholder85638/webapp/keys"
 )
 
 type menuItem struct {

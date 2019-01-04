@@ -3,8 +3,8 @@ package windows
 import (
 	"syscall"
 
-	"github.com/richardwilkes/toolbox/errs"
-	"github.com/richardwilkes/toolbox/log/jot"
+	"github.com/jholder85638/toolbox/errs"
+	"github.com/jholder85638/toolbox/log/jot"
 )
 
 func toUTF16PtrOrNilOnEmpty(in string) (*uint16, error) {

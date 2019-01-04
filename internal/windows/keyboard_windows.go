@@ -1,8 +1,8 @@
 package windows
 
 import (
-	"github.com/richardwilkes/cef/cef"
-	"github.com/richardwilkes/webapp/keys"
+	"github.com/jholder85638/cef/cef"
+	"github.com/jholder85638/webapp/keys"
 )
 
 type keyboardProxy struct {

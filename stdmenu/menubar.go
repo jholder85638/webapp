@@ -3,7 +3,7 @@ package stdmenu
 import (
 	"runtime"
 
-	"github.com/richardwilkes/webapp"
+	"github.com/jholder85638/webapp"
 )
 
 // FillMenuBar adds the standard menus to the menu bar.

@@ -1,10 +1,10 @@
 package webapp
 
 import (
-	"github.com/richardwilkes/cef/cef"
-	"github.com/richardwilkes/toolbox/i18n"
-	"github.com/richardwilkes/toolbox/log/jot"
-	"github.com/richardwilkes/toolbox/xmath/geom"
+	"github.com/jholder85638/cef/cef"
+	"github.com/jholder85638/toolbox/i18n"
+	"github.com/jholder85638/toolbox/log/jot"
+	"github.com/jholder85638/toolbox/xmath/geom"
 )
 
 // StyleMask controls the look and capabilities of a window.
